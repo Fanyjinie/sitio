@@ -1,0 +1,268 @@
+@charset "utf-8";
+*{margin: 0;
+padding: 0;
+}
+#header {
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	color: #A24CAA;
+	border: 0.2cm double #690D76;
+	background-color: #F4E8F7;
+	font-size: larger;
+	text-indent: 0px;
+	background-image: url(Image/banner.jpg);
+	width: 100%;
+	height: 75px;
+	
+}
+.ancho{
+	width: 80%;
+	height: 75px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+	
+}
+.logo{
+	width: 30%;
+	height: 75px;
+	background-image: url(Image/Logo.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-top: -5px;
+}
+
+
+#h2 {
+	color: #BD0ED6;
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+}
+#p {
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+	color: #7C337C;
+	font-size: medium;
+}
+#li1 {
+	color: #BD0ED6;
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+}
+#li2 {
+	color: #BD0ED6;
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+}
+#li3 {
+	color: #BD0ED6;
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+}
+#li4 {
+	color: #BD0ED6;
+	font-family: merienda-one;
+	font-style: normal;
+	font-weight: 400;
+}
+.slider {
+    width: 100%;
+    float: left;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #D994DF;
+	
+}
+.elarte {
+    background-color: rgba(90,3,100,0.36);
+	font-family: clara;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+    color: #6B0780;
+	padding-top: 8px;
+	
+	
+}
+	
+	
+	
+
+
+.parallax {
+    width: 100%;
+    height: 250px;
+    padding-top: 104px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(Image/2.jpg);
+  
+	
+	
+}
+
+.maquillaje{
+	background-color: #FBE4FF;
+	
+}
+
+.home{
+	width: auto;
+	max-width: 1060px;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+.subtitle{
+	width: 60%;
+	float: left;
+	margin-top: 20px;
+	margin-left: -96px;
+	margin-right: 15px;
+	font-weight: 400;
+	font-family: allerta;
+	font-style: normal;
+	font-size: xx-large;
+	text-align: right;
+	
+}
+.linea{
+    border-top: 1px solid black;
+	height: 2px;
+	padding: 0;
+	margin: auto;
+	
+}
+
+.tbody{
+	width: 500px;
+	padding-right: 10px;
+	padding-bottom: 10;
+	borde: hidden;
+	position: 0 0;
+	
+}
+
+.imgcol1{
+	width: 140px;
+	height: 140px;
+}
+
+.imgcol2{
+	width: 140px;
+	height: 140px;
+}
+
+.imgcol3{
+	width: 140px;
+	height: 140px;
+	margin-right: 10px;
+}
+.tdtext{
+	text-align: left;
+	font-size: 12px;
+	font-family: basic;
+	padding-left: 15px;
+	vertical-align: top;	
+}
+.text1{
+	width: 400px;
+	font-size: 16px;
+	font-family: basic;
+	margin-left: 20px;
+}
+
+
+
+.in-flex1{
+	flex: 1;
+	min-width: 450px;
+	
+}
+
+.in-flex1:first-child {
+	flex: 2;
+	min-width: 450px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.in-flex:div{
+	flex: 3;
+	min-width: 450px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+	
+.maquillaje .home .in-flex{
+	width: 450px;
+	margin-top: 31px;
+	margin-bottom: 31;
+	height: auto;
+	
+}
+.maquillaje .home .in-flex2{
+	width: 450px;
+	height: auto;
+}
+
+.maquillaje .home .in-flex3{
+	width: 450px;
+	margin-top: 31px;
+	text-align: left;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
